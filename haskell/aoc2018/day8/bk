@@ -1,0 +1,32 @@
+type NumChildren = Int
+ 36 type NumMetadata = Int
+ 35 type VisitStack  = [(NumChildren, NumMetadata)]
+ 34 type Metadata    = Int
+ 33 
+ 32 getMetadata :: [Int] -> VisitStack -> [Metadata] -> [Metadata]
+ 31 getMetadata [] _ metadata = metadata
+ 30 
+ 29 -- all children visited or I don't have children
+ 28 -- I can collect my metadata
+ 27 getMetadata xs ((0,n): tailStack) acc =
+ 26     let myMetadata = take n xs
+ 25         tail       = drop n xs
+ 24         stack'     = tailStack
+ 23         acc'       = myMetadata ++ acc
+ 22     in  getMetadata tail stack' acc'
+ 21 
+ 20 -- still visiting children
+ 19 -- cannot collect my metadata until I visit all my children
+ 18 -- but my children could also have children
+ 17 -- so they need to visit their children and so on recursively
+ 16 -- before I can continue my visits
+ 15 getMetadata (numChildren:numMetadata:xs) stack acc =
+ 14     let newVisit     = (numChildren, numMetadata)  
+ 13         stack'       = newVisit: (registerVisit stack)
+ 12     in  getMetadata xs stack' acc
+ 11 
+ 10 registerVisit :: VisitStack -> VisitStack
+  9 registerVisit [] = []
+  8 registerVisit ((childrenToGo, numMetaDataToClaim): ancestorsVisits) =
+  7           (childrenToGo -1, numMetaDataToClaim): ancestorsVisits
+

@@ -1,0 +1,1110 @@
+Record {date = [1518-2-10 23:47], guardAction = BeginsShift 1033}
+Record {date = [1518-2-11 0:5], guardAction = FallsAsleep}
+Record {date = [1518-2-11 0:28], guardAction = WakesUp}
+Record {date = [1518-2-11 0:43], guardAction = FallsAsleep}
+Record {date = [1518-2-11 0:52], guardAction = WakesUp}
+Record {date = [1518-2-12 0:4], guardAction = BeginsShift 1901}
+Record {date = [1518-2-12 0:22], guardAction = FallsAsleep}
+Record {date = [1518-2-12 0:38], guardAction = WakesUp}
+Record {date = [1518-2-12 0:50], guardAction = FallsAsleep}
+Record {date = [1518-2-12 0:52], guardAction = WakesUp}
+Record {date = [1518-2-13 0:2], guardAction = BeginsShift 1021}
+Record {date = [1518-2-13 0:11], guardAction = FallsAsleep}
+Record {date = [1518-2-13 0:37], guardAction = WakesUp}
+Record {date = [1518-2-13 23:56], guardAction = BeginsShift 2447}
+Record {date = [1518-2-14 0:30], guardAction = FallsAsleep}
+Record {date = [1518-2-14 0:47], guardAction = WakesUp}
+Record {date = [1518-2-15 0:0], guardAction = BeginsShift 1033}
+Record {date = [1518-2-15 0:14], guardAction = FallsAsleep}
+Record {date = [1518-2-15 0:28], guardAction = WakesUp}
+Record {date = [1518-2-15 0:50], guardAction = FallsAsleep}
+Record {date = [1518-2-15 0:55], guardAction = WakesUp}
+Record {date = [1518-2-15 23:57], guardAction = BeginsShift 2383}
+Record {date = [1518-2-16 0:17], guardAction = FallsAsleep}
+Record {date = [1518-2-16 0:35], guardAction = WakesUp}
+Record {date = [1518-2-17 0:4], guardAction = BeginsShift 1193}
+Record {date = [1518-2-17 0:24], guardAction = FallsAsleep}
+Record {date = [1518-2-17 0:37], guardAction = WakesUp}
+Record {date = [1518-2-17 23:56], guardAction = BeginsShift 1297}
+Record {date = [1518-2-18 0:9], guardAction = FallsAsleep}
+Record {date = [1518-2-18 0:43], guardAction = WakesUp}
+Record {date = [1518-2-18 0:49], guardAction = FallsAsleep}
+Record {date = [1518-2-18 0:52], guardAction = WakesUp}
+Record {date = [1518-2-19 0:0], guardAction = BeginsShift 3499}
+Record {date = [1518-2-19 0:29], guardAction = FallsAsleep}
+Record {date = [1518-2-19 0:46], guardAction = WakesUp}
+Record {date = [1518-2-20 0:2], guardAction = BeginsShift 1231}
+Record {date = [1518-2-20 0:53], guardAction = FallsAsleep}
+Record {date = [1518-2-20 0:57], guardAction = WakesUp}
+Record {date = [1518-2-20 23:57], guardAction = BeginsShift 1193}
+Record {date = [1518-2-21 0:11], guardAction = FallsAsleep}
+Record {date = [1518-2-21 0:35], guardAction = WakesUp}
+Record {date = [1518-2-21 23:59], guardAction = BeginsShift 2729}
+Record {date = [1518-2-22 0:20], guardAction = FallsAsleep}
+Record {date = [1518-2-22 0:30], guardAction = WakesUp}
+Record {date = [1518-2-22 0:46], guardAction = FallsAsleep}
+Record {date = [1518-2-22 0:59], guardAction = WakesUp}
+Record {date = [1518-2-23 0:2], guardAction = BeginsShift 1901}
+Record {date = [1518-2-23 0:22], guardAction = FallsAsleep}
+Record {date = [1518-2-23 0:56], guardAction = WakesUp}
+Record {date = [1518-2-23 23:56], guardAction = BeginsShift 2129}
+Record {date = [1518-2-24 0:25], guardAction = FallsAsleep}
+Record {date = [1518-2-24 0:28], guardAction = WakesUp}
+Record {date = [1518-2-24 23:47], guardAction = BeginsShift 419}
+Record {date = [1518-2-25 0:2], guardAction = FallsAsleep}
+Record {date = [1518-2-25 0:13], guardAction = WakesUp}
+Record {date = [1518-2-25 0:24], guardAction = FallsAsleep}
+Record {date = [1518-2-25 0:49], guardAction = WakesUp}
+Record {date = [1518-2-26 0:3], guardAction = BeginsShift 1993}
+Record {date = [1518-2-26 0:13], guardAction = FallsAsleep}
+Record {date = [1518-2-26 0:41], guardAction = WakesUp}
+Record {date = [1518-2-27 0:1], guardAction = BeginsShift 1021}
+Record {date = [1518-2-27 0:7], guardAction = FallsAsleep}
+Record {date = [1518-2-27 0:13], guardAction = WakesUp}
+Record {date = [1518-2-27 0:22], guardAction = FallsAsleep}
+Record {date = [1518-2-27 0:25], guardAction = WakesUp}
+Record {date = [1518-2-27 23:58], guardAction = BeginsShift 1021}
+Record {date = [1518-2-28 0:18], guardAction = FallsAsleep}
+Record {date = [1518-2-28 0:52], guardAction = WakesUp}
+Record {date = [1518-2-28 23:57], guardAction = BeginsShift 2729}
+Record {date = [1518-3-1 0:14], guardAction = FallsAsleep}
+Record {date = [1518-3-1 0:47], guardAction = WakesUp}
+Record {date = [1518-3-1 23:59], guardAction = BeginsShift 1033}
+Record {date = [1518-3-2 0:16], guardAction = FallsAsleep}
+Record {date = [1518-3-2 0:53], guardAction = WakesUp}
+Record {date = [1518-3-2 23:56], guardAction = BeginsShift 419}
+Record {date = [1518-3-3 0:8], guardAction = FallsAsleep}
+Record {date = [1518-3-3 0:41], guardAction = WakesUp}
+Record {date = [1518-3-3 23:59], guardAction = BeginsShift 2447}
+Record {date = [1518-3-4 0:20], guardAction = FallsAsleep}
+Record {date = [1518-3-4 0:23], guardAction = WakesUp}
+Record {date = [1518-3-4 0:43], guardAction = FallsAsleep}
+Record {date = [1518-3-4 0:59], guardAction = WakesUp}
+Record {date = [1518-3-5 0:0], guardAction = BeginsShift 2729}
+Record {date = [1518-3-5 0:6], guardAction = FallsAsleep}
+Record {date = [1518-3-5 0:48], guardAction = WakesUp}
+Record {date = [1518-3-5 23:50], guardAction = BeginsShift 1231}
+Record {date = [1518-3-6 0:2], guardAction = FallsAsleep}
+Record {date = [1518-3-6 0:36], guardAction = WakesUp}
+Record {date = [1518-3-6 23:58], guardAction = BeginsShift 1901}
+Record {date = [1518-3-7 0:16], guardAction = FallsAsleep}
+Record {date = [1518-3-7 0:53], guardAction = WakesUp}
+Record {date = [1518-3-7 23:58], guardAction = BeginsShift 2539}
+Record {date = [1518-3-8 0:33], guardAction = FallsAsleep}
+Record {date = [1518-3-8 0:53], guardAction = WakesUp}
+Record {date = [1518-3-9 0:1], guardAction = BeginsShift 2729}
+Record {date = [1518-3-9 0:14], guardAction = FallsAsleep}
+Record {date = [1518-3-9 0:56], guardAction = WakesUp}
+Record {date = [1518-3-10 0:0], guardAction = BeginsShift 2963}
+Record {date = [1518-3-10 0:31], guardAction = FallsAsleep}
+Record {date = [1518-3-10 0:41], guardAction = WakesUp}
+Record {date = [1518-3-11 0:3], guardAction = BeginsShift 1231}
+Record {date = [1518-3-11 0:18], guardAction = FallsAsleep}
+Record {date = [1518-3-11 0:20], guardAction = WakesUp}
+Record {date = [1518-3-11 0:26], guardAction = FallsAsleep}
+Record {date = [1518-3-11 0:28], guardAction = WakesUp}
+Record {date = [1518-3-11 0:48], guardAction = FallsAsleep}
+Record {date = [1518-3-11 0:53], guardAction = WakesUp}
+Record {date = [1518-3-12 0:1], guardAction = BeginsShift 3119}
+Record {date = [1518-3-12 0:12], guardAction = FallsAsleep}
+Record {date = [1518-3-12 0:39], guardAction = WakesUp}
+Record {date = [1518-3-13 0:2], guardAction = BeginsShift 1033}
+Record {date = [1518-3-13 0:7], guardAction = FallsAsleep}
+Record {date = [1518-3-13 0:19], guardAction = WakesUp}
+Record {date = [1518-3-13 0:51], guardAction = FallsAsleep}
+Record {date = [1518-3-13 0:52], guardAction = WakesUp}
+Record {date = [1518-3-13 23:58], guardAction = BeginsShift 419}
+Record {date = [1518-3-14 0:30], guardAction = FallsAsleep}
+Record {date = [1518-3-14 0:45], guardAction = WakesUp}
+Record {date = [1518-3-15 0:4], guardAction = BeginsShift 2383}
+Record {date = [1518-3-15 0:11], guardAction = FallsAsleep}
+Record {date = [1518-3-15 0:46], guardAction = WakesUp}
+Record {date = [1518-3-15 0:56], guardAction = FallsAsleep}
+Record {date = [1518-3-15 0:57], guardAction = WakesUp}
+Record {date = [1518-3-15 23:46], guardAction = BeginsShift 2729}
+Record {date = [1518-3-16 0:0], guardAction = FallsAsleep}
+Record {date = [1518-3-16 0:2], guardAction = WakesUp}
+Record {date = [1518-3-16 23:46], guardAction = BeginsShift 2707}
+Record {date = [1518-3-17 0:1], guardAction = FallsAsleep}
+Record {date = [1518-3-17 0:2], guardAction = WakesUp}
+Record {date = [1518-3-18 0:2], guardAction = BeginsShift 2707}
+Record {date = [1518-3-18 0:15], guardAction = FallsAsleep}
+Record {date = [1518-3-18 0:52], guardAction = WakesUp}
+Record {date = [1518-3-19 0:0], guardAction = BeginsShift 1901}
+Record {date = [1518-3-19 0:51], guardAction = FallsAsleep}
+Record {date = [1518-3-19 0:56], guardAction = WakesUp}
+Record {date = [1518-3-19 23:46], guardAction = BeginsShift 2707}
+Record {date = [1518-3-20 0:1], guardAction = FallsAsleep}
+Record {date = [1518-3-20 0:51], guardAction = WakesUp}
+Record {date = [1518-3-21 0:0], guardAction = BeginsShift 1171}
+Record {date = [1518-3-21 0:35], guardAction = FallsAsleep}
+Record {date = [1518-3-21 0:39], guardAction = WakesUp}
+Record {date = [1518-3-21 23:59], guardAction = BeginsShift 1193}
+Record {date = [1518-3-22 0:39], guardAction = FallsAsleep}
+Record {date = [1518-3-22 0:57], guardAction = WakesUp}
+Record {date = [1518-3-22 23:57], guardAction = BeginsShift 1901}
+Record {date = [1518-3-23 0:27], guardAction = FallsAsleep}
+Record {date = [1518-3-23 0:33], guardAction = WakesUp}
+Record {date = [1518-3-23 0:49], guardAction = FallsAsleep}
+Record {date = [1518-3-23 0:52], guardAction = WakesUp}
+Record {date = [1518-3-23 23:56], guardAction = BeginsShift 1297}
+Record {date = [1518-3-24 0:24], guardAction = FallsAsleep}
+Record {date = [1518-3-24 0:52], guardAction = WakesUp}
+Record {date = [1518-3-24 0:56], guardAction = FallsAsleep}
+Record {date = [1518-3-24 0:58], guardAction = WakesUp}
+Record {date = [1518-3-24 23:54], guardAction = BeginsShift 1553}
+Record {date = [1518-3-25 0:0], guardAction = FallsAsleep}
+Record {date = [1518-3-25 0:52], guardAction = WakesUp}
+Record {date = [1518-3-25 23:49], guardAction = BeginsShift 1171}
+Record {date = [1518-3-26 0:5], guardAction = FallsAsleep}
+Record {date = [1518-3-26 0:14], guardAction = WakesUp}
+Record {date = [1518-3-27 0:2], guardAction = BeginsShift 2129}
+Record {date = [1518-3-27 0:17], guardAction = FallsAsleep}
+Record {date = [1518-3-27 0:31], guardAction = WakesUp}
+Record {date = [1518-3-27 0:37], guardAction = FallsAsleep}
+Record {date = [1518-3-27 0:39], guardAction = WakesUp}
+Record {date = [1518-3-28 0:3], guardAction = BeginsShift 3499}
+Record {date = [1518-3-28 0:7], guardAction = FallsAsleep}
+Record {date = [1518-3-28 0:38], guardAction = WakesUp}
+Record {date = [1518-3-28 0:43], guardAction = FallsAsleep}
+Record {date = [1518-3-28 0:44], guardAction = WakesUp}
+Record {date = [1518-3-28 0:47], guardAction = FallsAsleep}
+Record {date = [1518-3-28 0:58], guardAction = WakesUp}
+Record {date = [1518-3-28 23:59], guardAction = BeginsShift 3371}
+Record {date = [1518-3-29 0:16], guardAction = FallsAsleep}
+Record {date = [1518-3-29 0:57], guardAction = WakesUp}
+Record {date = [1518-3-29 23:57], guardAction = BeginsShift 1193}
+Record {date = [1518-3-30 0:42], guardAction = FallsAsleep}
+Record {date = [1518-3-30 0:48], guardAction = WakesUp}
+Record {date = [1518-3-30 0:56], guardAction = FallsAsleep}
+Record {date = [1518-3-30 0:58], guardAction = WakesUp}
+Record {date = [1518-3-30 23:49], guardAction = BeginsShift 3119}
+Record {date = [1518-3-31 0:0], guardAction = FallsAsleep}
+Record {date = [1518-3-31 0:4], guardAction = WakesUp}
+Record {date = [1518-3-31 0:10], guardAction = FallsAsleep}
+Record {date = [1518-3-31 0:41], guardAction = WakesUp}
+Record {date = [1518-3-31 0:44], guardAction = FallsAsleep}
+Record {date = [1518-3-31 0:50], guardAction = WakesUp}
+Record {date = [1518-4-1 0:0], guardAction = BeginsShift 3371}
+Record {date = [1518-4-1 0:14], guardAction = FallsAsleep}
+Record {date = [1518-4-1 0:53], guardAction = WakesUp}
+Record {date = [1518-4-2 0:3], guardAction = BeginsShift 2447}
+Record {date = [1518-4-2 0:38], guardAction = FallsAsleep}
+Record {date = [1518-4-2 0:50], guardAction = WakesUp}
+Record {date = [1518-4-3 0:2], guardAction = BeginsShift 1033}
+Record {date = [1518-4-3 0:50], guardAction = FallsAsleep}
+Record {date = [1518-4-3 0:52], guardAction = WakesUp}
+Record {date = [1518-4-3 23:59], guardAction = BeginsShift 2707}
+Record {date = [1518-4-4 0:32], guardAction = FallsAsleep}
+Record {date = [1518-4-4 0:53], guardAction = WakesUp}
+Record {date = [1518-4-4 23:57], guardAction = BeginsShift 1021}
+Record {date = [1518-4-5 0:23], guardAction = FallsAsleep}
+Record {date = [1518-4-5 0:42], guardAction = WakesUp}
+Record {date = [1518-4-5 23:59], guardAction = BeginsShift 2539}
+Record {date = [1518-4-6 0:29], guardAction = FallsAsleep}
+Record {date = [1518-4-6 0:47], guardAction = WakesUp}
+Record {date = [1518-4-6 0:52], guardAction = FallsAsleep}
+Record {date = [1518-4-6 0:58], guardAction = WakesUp}
+Record {date = [1518-4-7 0:1], guardAction = BeginsShift 2707}
+Record {date = [1518-4-7 0:41], guardAction = FallsAsleep}
+Record {date = [1518-4-7 0:54], guardAction = WakesUp}
+Record {date = [1518-4-8 0:2], guardAction = BeginsShift 1901}
+Record {date = [1518-4-8 0:10], guardAction = FallsAsleep}
+Record {date = [1518-4-8 0:54], guardAction = WakesUp}
+Record {date = [1518-4-9 0:2], guardAction = BeginsShift 2707}
+Record {date = [1518-4-9 0:20], guardAction = FallsAsleep}
+Record {date = [1518-4-9 0:36], guardAction = WakesUp}
+Record {date = [1518-4-9 0:50], guardAction = FallsAsleep}
+Record {date = [1518-4-9 0:57], guardAction = WakesUp}
+Record {date = [1518-4-9 23:56], guardAction = BeginsShift 2729}
+Record {date = [1518-4-10 0:36], guardAction = FallsAsleep}
+Record {date = [1518-4-10 0:39], guardAction = WakesUp}
+Record {date = [1518-4-10 0:43], guardAction = FallsAsleep}
+Record {date = [1518-4-10 0:45], guardAction = WakesUp}
+Record {date = [1518-4-11 0:4], guardAction = BeginsShift 1297}
+Record {date = [1518-4-11 0:33], guardAction = FallsAsleep}
+Record {date = [1518-4-11 0:50], guardAction = WakesUp}
+Record {date = [1518-4-12 0:0], guardAction = BeginsShift 419}
+Record {date = [1518-4-12 0:8], guardAction = FallsAsleep}
+Record {date = [1518-4-12 0:49], guardAction = WakesUp}
+Record {date = [1518-4-12 0:56], guardAction = FallsAsleep}
+Record {date = [1518-4-12 0:58], guardAction = WakesUp}
+Record {date = [1518-4-12 23:53], guardAction = BeginsShift 1231}
+Record {date = [1518-4-13 0:0], guardAction = FallsAsleep}
+Record {date = [1518-4-13 0:42], guardAction = WakesUp}
+Record {date = [1518-4-13 23:59], guardAction = BeginsShift 1193}
+Record {date = [1518-4-14 0:28], guardAction = FallsAsleep}
+Record {date = [1518-4-14 0:42], guardAction = WakesUp}
+Record {date = [1518-4-14 23:57], guardAction = BeginsShift 3533}
+Record {date = [1518-4-16 0:1], guardAction = BeginsShift 283}
+Record {date = [1518-4-16 23:57], guardAction = BeginsShift 3499}
+Record {date = [1518-4-17 0:36], guardAction = FallsAsleep}
+Record {date = [1518-4-17 0:52], guardAction = WakesUp}
+Record {date = [1518-4-17 23:57], guardAction = BeginsShift 3371}
+Record {date = [1518-4-18 0:23], guardAction = FallsAsleep}
+Record {date = [1518-4-18 0:42], guardAction = WakesUp}
+Record {date = [1518-4-18 0:53], guardAction = FallsAsleep}
+Record {date = [1518-4-18 0:54], guardAction = WakesUp}
+Record {date = [1518-4-18 23:59], guardAction = BeginsShift 2729}
+Record {date = [1518-4-19 0:26], guardAction = FallsAsleep}
+Record {date = [1518-4-19 0:54], guardAction = WakesUp}
+Record {date = [1518-4-20 0:2], guardAction = BeginsShift 1193}
+Record {date = [1518-4-20 0:11], guardAction = FallsAsleep}
+Record {date = [1518-4-20 0:24], guardAction = WakesUp}
+Record {date = [1518-4-20 0:45], guardAction = FallsAsleep}
+Record {date = [1518-4-20 0:48], guardAction = WakesUp}
+Record {date = [1518-4-20 23:57], guardAction = BeginsShift 1231}
+Record {date = [1518-4-21 0:9], guardAction = FallsAsleep}
+Record {date = [1518-4-21 0:22], guardAction = WakesUp}
+Record {date = [1518-4-21 0:25], guardAction = FallsAsleep}
+Record {date = [1518-4-21 0:39], guardAction = WakesUp}
+Record {date = [1518-4-21 0:45], guardAction = FallsAsleep}
+Record {date = [1518-4-21 0:49], guardAction = WakesUp}
+Record {date = [1518-4-21 23:58], guardAction = BeginsShift 2707}
+Record {date = [1518-4-22 0:7], guardAction = FallsAsleep}
+Record {date = [1518-4-22 0:34], guardAction = WakesUp}
+Record {date = [1518-4-22 0:41], guardAction = FallsAsleep}
+Record {date = [1518-4-22 0:59], guardAction = WakesUp}
+Record {date = [1518-4-22 23:53], guardAction = BeginsShift 2963}
+Record {date = [1518-4-23 0:0], guardAction = FallsAsleep}
+Record {date = [1518-4-23 0:17], guardAction = WakesUp}
+Record {date = [1518-4-23 0:42], guardAction = FallsAsleep}
+Record {date = [1518-4-23 0:43], guardAction = WakesUp}
+Record {date = [1518-4-24 0:2], guardAction = BeginsShift 1193}
+Record {date = [1518-4-24 0:20], guardAction = FallsAsleep}
+Record {date = [1518-4-24 0:46], guardAction = WakesUp}
+Record {date = [1518-4-24 23:58], guardAction = BeginsShift 1033}
+Record {date = [1518-4-25 0:40], guardAction = FallsAsleep}
+Record {date = [1518-4-25 0:59], guardAction = WakesUp}
+Record {date = [1518-4-25 23:54], guardAction = BeginsShift 2963}
+Record {date = [1518-4-26 0:0], guardAction = FallsAsleep}
+Record {date = [1518-4-26 0:15], guardAction = WakesUp}
+Record {date = [1518-4-26 0:19], guardAction = FallsAsleep}
+Record {date = [1518-4-26 0:55], guardAction = WakesUp}
+Record {date = [1518-4-26 23:58], guardAction = BeginsShift 1901}
+Record {date = [1518-4-27 0:48], guardAction = FallsAsleep}
+Record {date = [1518-4-27 0:53], guardAction = WakesUp}
+Record {date = [1518-4-27 23:56], guardAction = BeginsShift 1193}
+Record {date = [1518-4-28 0:19], guardAction = FallsAsleep}
+Record {date = [1518-4-28 0:40], guardAction = WakesUp}
+Record {date = [1518-4-28 0:47], guardAction = FallsAsleep}
+Record {date = [1518-4-28 0:57], guardAction = WakesUp}
+Record {date = [1518-4-28 23:59], guardAction = BeginsShift 1021}
+Record {date = [1518-4-29 0:7], guardAction = FallsAsleep}
+Record {date = [1518-4-29 0:44], guardAction = WakesUp}
+Record {date = [1518-4-29 0:49], guardAction = FallsAsleep}
+Record {date = [1518-4-29 0:50], guardAction = WakesUp}
+Record {date = [1518-4-29 23:50], guardAction = BeginsShift 3119}
+Record {date = [1518-4-30 0:4], guardAction = FallsAsleep}
+Record {date = [1518-4-30 0:41], guardAction = WakesUp}
+Record {date = [1518-5-1 0:4], guardAction = BeginsShift 1231}
+Record {date = [1518-5-1 0:14], guardAction = FallsAsleep}
+Record {date = [1518-5-1 0:27], guardAction = WakesUp}
+Record {date = [1518-5-1 0:45], guardAction = FallsAsleep}
+Record {date = [1518-5-1 0:51], guardAction = WakesUp}
+Record {date = [1518-5-1 23:57], guardAction = BeginsShift 283}
+Record {date = [1518-5-2 23:56], guardAction = BeginsShift 3371}
+Record {date = [1518-5-3 0:26], guardAction = FallsAsleep}
+Record {date = [1518-5-3 0:48], guardAction = WakesUp}
+Record {date = [1518-5-3 0:55], guardAction = FallsAsleep}
+Record {date = [1518-5-3 0:57], guardAction = WakesUp}
+Record {date = [1518-5-3 23:53], guardAction = BeginsShift 1297}
+Record {date = [1518-5-4 0:1], guardAction = FallsAsleep}
+Record {date = [1518-5-4 0:14], guardAction = WakesUp}
+Record {date = [1518-5-4 0:26], guardAction = FallsAsleep}
+Record {date = [1518-5-4 0:29], guardAction = WakesUp}
+Record {date = [1518-5-4 0:38], guardAction = FallsAsleep}
+Record {date = [1518-5-4 0:40], guardAction = WakesUp}
+Record {date = [1518-5-4 0:52], guardAction = FallsAsleep}
+Record {date = [1518-5-4 0:54], guardAction = WakesUp}
+Record {date = [1518-5-4 23:50], guardAction = BeginsShift 3371}
+Record {date = [1518-5-5 0:1], guardAction = FallsAsleep}
+Record {date = [1518-5-5 0:50], guardAction = WakesUp}
+Record {date = [1518-5-5 23:52], guardAction = BeginsShift 2129}
+Record {date = [1518-5-6 0:3], guardAction = FallsAsleep}
+Record {date = [1518-5-6 0:57], guardAction = WakesUp}
+Record {date = [1518-5-6 23:51], guardAction = BeginsShift 1033}
+Record {date = [1518-5-7 0:3], guardAction = FallsAsleep}
+Record {date = [1518-5-7 0:38], guardAction = WakesUp}
+Record {date = [1518-5-7 0:42], guardAction = FallsAsleep}
+Record {date = [1518-5-7 0:54], guardAction = WakesUp}
+Record {date = [1518-5-7 23:54], guardAction = BeginsShift 1033}
+Record {date = [1518-5-8 0:3], guardAction = FallsAsleep}
+Record {date = [1518-5-8 0:27], guardAction = WakesUp}
+Record {date = [1518-5-8 0:51], guardAction = FallsAsleep}
+Record {date = [1518-5-8 0:53], guardAction = WakesUp}
+Record {date = [1518-5-8 23:58], guardAction = BeginsShift 1993}
+Record {date = [1518-5-9 0:50], guardAction = FallsAsleep}
+Record {date = [1518-5-9 0:58], guardAction = WakesUp}
+Record {date = [1518-5-10 0:3], guardAction = BeginsShift 2539}
+Record {date = [1518-5-10 0:42], guardAction = FallsAsleep}
+Record {date = [1518-5-10 0:52], guardAction = WakesUp}
+Record {date = [1518-5-10 0:57], guardAction = FallsAsleep}
+Record {date = [1518-5-10 0:58], guardAction = WakesUp}
+Record {date = [1518-5-10 23:59], guardAction = BeginsShift 2447}
+Record {date = [1518-5-11 0:24], guardAction = FallsAsleep}
+Record {date = [1518-5-11 0:45], guardAction = WakesUp}
+Record {date = [1518-5-11 0:55], guardAction = FallsAsleep}
+Record {date = [1518-5-11 0:57], guardAction = WakesUp}
+Record {date = [1518-5-12 0:0], guardAction = BeginsShift 2129}
+Record {date = [1518-5-12 0:11], guardAction = FallsAsleep}
+Record {date = [1518-5-12 0:59], guardAction = WakesUp}
+Record {date = [1518-5-12 23:59], guardAction = BeginsShift 3371}
+Record {date = [1518-5-13 0:18], guardAction = FallsAsleep}
+Record {date = [1518-5-13 0:42], guardAction = WakesUp}
+Record {date = [1518-5-13 23:57], guardAction = BeginsShift 419}
+Record {date = [1518-5-14 0:16], guardAction = FallsAsleep}
+Record {date = [1518-5-14 0:50], guardAction = WakesUp}
+Record {date = [1518-5-14 23:48], guardAction = BeginsShift 3119}
+Record {date = [1518-5-15 0:2], guardAction = FallsAsleep}
+Record {date = [1518-5-15 0:5], guardAction = WakesUp}
+Record {date = [1518-5-15 0:9], guardAction = FallsAsleep}
+Record {date = [1518-5-15 0:15], guardAction = WakesUp}
+Record {date = [1518-5-15 0:42], guardAction = FallsAsleep}
+Record {date = [1518-5-15 0:55], guardAction = WakesUp}
+Record {date = [1518-5-16 0:1], guardAction = BeginsShift 1171}
+Record {date = [1518-5-16 0:16], guardAction = FallsAsleep}
+Record {date = [1518-5-16 0:34], guardAction = WakesUp}
+Record {date = [1518-5-16 0:43], guardAction = FallsAsleep}
+Record {date = [1518-5-16 0:58], guardAction = WakesUp}
+Record {date = [1518-5-17 0:3], guardAction = BeginsShift 3119}
+Record {date = [1518-5-17 0:35], guardAction = FallsAsleep}
+Record {date = [1518-5-17 0:49], guardAction = WakesUp}
+Record {date = [1518-5-17 23:56], guardAction = BeginsShift 1297}
+Record {date = [1518-5-18 0:9], guardAction = FallsAsleep}
+Record {date = [1518-5-18 0:36], guardAction = WakesUp}
+Record {date = [1518-5-18 0:40], guardAction = FallsAsleep}
+Record {date = [1518-5-18 0:55], guardAction = WakesUp}
+Record {date = [1518-5-18 23:57], guardAction = BeginsShift 3119}
+Record {date = [1518-5-19 0:54], guardAction = FallsAsleep}
+Record {date = [1518-5-19 0:55], guardAction = WakesUp}
+Record {date = [1518-5-19 23:50], guardAction = BeginsShift 1901}
+Record {date = [1518-5-20 0:1], guardAction = FallsAsleep}
+Record {date = [1518-5-20 0:34], guardAction = WakesUp}
+Record {date = [1518-5-20 0:48], guardAction = FallsAsleep}
+Record {date = [1518-5-20 0:57], guardAction = WakesUp}
+Record {date = [1518-5-21 0:4], guardAction = BeginsShift 1193}
+Record {date = [1518-5-21 0:32], guardAction = FallsAsleep}
+Record {date = [1518-5-21 0:34], guardAction = WakesUp}
+Record {date = [1518-5-21 0:42], guardAction = FallsAsleep}
+Record {date = [1518-5-21 0:59], guardAction = WakesUp}
+Record {date = [1518-5-21 23:57], guardAction = BeginsShift 2383}
+Record {date = [1518-5-22 0:32], guardAction = FallsAsleep}
+Record {date = [1518-5-22 0:47], guardAction = WakesUp}
+Record {date = [1518-5-23 0:1], guardAction = BeginsShift 3371}
+Record {date = [1518-5-23 0:15], guardAction = FallsAsleep}
+Record {date = [1518-5-23 0:50], guardAction = WakesUp}
+Record {date = [1518-5-23 23:51], guardAction = BeginsShift 1297}
+Record {date = [1518-5-24 0:1], guardAction = FallsAsleep}
+Record {date = [1518-5-24 0:13], guardAction = WakesUp}
+Record {date = [1518-5-24 0:25], guardAction = FallsAsleep}
+Record {date = [1518-5-24 0:51], guardAction = WakesUp}
+Record {date = [1518-5-25 0:1], guardAction = BeginsShift 1231}
+Record {date = [1518-5-25 0:11], guardAction = FallsAsleep}
+Record {date = [1518-5-25 0:20], guardAction = WakesUp}
+Record {date = [1518-5-25 0:45], guardAction = FallsAsleep}
+Record {date = [1518-5-25 0:59], guardAction = WakesUp}
+Record {date = [1518-5-25 23:57], guardAction = BeginsShift 3533}
+Record {date = [1518-5-27 0:1], guardAction = BeginsShift 1171}
+Record {date = [1518-5-27 0:11], guardAction = FallsAsleep}
+Record {date = [1518-5-27 0:35], guardAction = WakesUp}
+Record {date = [1518-5-28 0:2], guardAction = BeginsShift 2729}
+Record {date = [1518-5-28 0:35], guardAction = FallsAsleep}
+Record {date = [1518-5-28 0:47], guardAction = WakesUp}
+Record {date = [1518-5-28 0:52], guardAction = FallsAsleep}
+Record {date = [1518-5-28 0:59], guardAction = WakesUp}
+Record {date = [1518-5-29 0:3], guardAction = BeginsShift 1193}
+Record {date = [1518-5-29 0:12], guardAction = FallsAsleep}
+Record {date = [1518-5-29 0:44], guardAction = WakesUp}
+Record {date = [1518-5-30 0:0], guardAction = BeginsShift 3499}
+Record {date = [1518-5-30 0:26], guardAction = FallsAsleep}
+Record {date = [1518-5-30 0:28], guardAction = WakesUp}
+Record {date = [1518-5-30 0:34], guardAction = FallsAsleep}
+Record {date = [1518-5-30 0:58], guardAction = WakesUp}
+Record {date = [1518-5-30 23:58], guardAction = BeginsShift 1723}
+Record {date = [1518-6-1 0:1], guardAction = BeginsShift 2729}
+Record {date = [1518-6-1 0:10], guardAction = FallsAsleep}
+Record {date = [1518-6-1 0:55], guardAction = WakesUp}
+Record {date = [1518-6-2 0:3], guardAction = BeginsShift 1553}
+Record {date = [1518-6-2 0:44], guardAction = FallsAsleep}
+Record {date = [1518-6-2 0:46], guardAction = WakesUp}
+Record {date = [1518-6-2 0:49], guardAction = FallsAsleep}
+Record {date = [1518-6-2 0:51], guardAction = WakesUp}
+Record {date = [1518-6-2 0:54], guardAction = FallsAsleep}
+Record {date = [1518-6-2 0:57], guardAction = WakesUp}
+Record {date = [1518-6-2 23:59], guardAction = BeginsShift 2963}
+Record {date = [1518-6-3 0:39], guardAction = FallsAsleep}
+Record {date = [1518-6-3 0:51], guardAction = WakesUp}
+Record {date = [1518-6-3 23:58], guardAction = BeginsShift 1033}
+Record {date = [1518-6-4 0:12], guardAction = FallsAsleep}
+Record {date = [1518-6-4 0:30], guardAction = WakesUp}
+Record {date = [1518-6-4 0:40], guardAction = FallsAsleep}
+Record {date = [1518-6-4 0:51], guardAction = WakesUp}
+Record {date = [1518-6-5 0:4], guardAction = BeginsShift 3371}
+Record {date = [1518-6-5 0:33], guardAction = FallsAsleep}
+Record {date = [1518-6-5 0:36], guardAction = WakesUp}
+Record {date = [1518-6-5 23:59], guardAction = BeginsShift 2539}
+Record {date = [1518-6-6 0:20], guardAction = FallsAsleep}
+Record {date = [1518-6-6 0:47], guardAction = WakesUp}
+Record {date = [1518-6-7 0:3], guardAction = BeginsShift 3371}
+Record {date = [1518-6-7 0:6], guardAction = FallsAsleep}
+Record {date = [1518-6-7 0:47], guardAction = WakesUp}
+Record {date = [1518-6-7 23:54], guardAction = BeginsShift 2383}
+Record {date = [1518-6-8 0:3], guardAction = FallsAsleep}
+Record {date = [1518-6-8 0:17], guardAction = WakesUp}
+Record {date = [1518-6-9 0:1], guardAction = BeginsShift 1171}
+Record {date = [1518-6-9 0:24], guardAction = FallsAsleep}
+Record {date = [1518-6-9 0:26], guardAction = WakesUp}
+Record {date = [1518-6-9 0:44], guardAction = FallsAsleep}
+Record {date = [1518-6-9 0:48], guardAction = WakesUp}
+Record {date = [1518-6-9 0:51], guardAction = FallsAsleep}
+Record {date = [1518-6-9 0:59], guardAction = WakesUp}
+Record {date = [1518-6-9 23:50], guardAction = BeginsShift 1033}
+Record {date = [1518-6-10 0:2], guardAction = FallsAsleep}
+Record {date = [1518-6-10 0:25], guardAction = WakesUp}
+Record {date = [1518-6-10 0:52], guardAction = FallsAsleep}
+Record {date = [1518-6-10 0:54], guardAction = WakesUp}
+Record {date = [1518-6-10 23:53], guardAction = BeginsShift 1901}
+Record {date = [1518-6-11 0:2], guardAction = FallsAsleep}
+Record {date = [1518-6-11 0:38], guardAction = WakesUp}
+Record {date = [1518-6-11 0:51], guardAction = FallsAsleep}
+Record {date = [1518-6-11 0:56], guardAction = WakesUp}
+Record {date = [1518-6-12 0:1], guardAction = BeginsShift 1901}
+Record {date = [1518-6-12 0:18], guardAction = FallsAsleep}
+Record {date = [1518-6-12 0:25], guardAction = WakesUp}
+Record {date = [1518-6-12 0:28], guardAction = FallsAsleep}
+Record {date = [1518-6-12 0:41], guardAction = WakesUp}
+Record {date = [1518-6-12 0:48], guardAction = FallsAsleep}
+Record {date = [1518-6-12 0:57], guardAction = WakesUp}
+Record {date = [1518-6-12 23:50], guardAction = BeginsShift 1033}
+Record {date = [1518-6-13 0:0], guardAction = FallsAsleep}
+Record {date = [1518-6-13 0:2], guardAction = WakesUp}
+Record {date = [1518-6-13 0:20], guardAction = FallsAsleep}
+Record {date = [1518-6-13 0:24], guardAction = WakesUp}
+Record {date = [1518-6-13 0:35], guardAction = FallsAsleep}
+Record {date = [1518-6-13 0:55], guardAction = WakesUp}
+Record {date = [1518-6-14 0:1], guardAction = BeginsShift 2963}
+Record {date = [1518-6-14 0:9], guardAction = FallsAsleep}
+Record {date = [1518-6-14 0:14], guardAction = WakesUp}
+Record {date = [1518-6-14 0:24], guardAction = FallsAsleep}
+Record {date = [1518-6-14 0:30], guardAction = WakesUp}
+Record {date = [1518-6-14 23:52], guardAction = BeginsShift 1553}
+Record {date = [1518-6-15 0:5], guardAction = FallsAsleep}
+Record {date = [1518-6-15 0:30], guardAction = WakesUp}
+Record {date = [1518-6-16 0:1], guardAction = BeginsShift 1171}
+Record {date = [1518-6-16 0:8], guardAction = FallsAsleep}
+Record {date = [1518-6-16 0:36], guardAction = WakesUp}
+Record {date = [1518-6-16 23:58], guardAction = BeginsShift 2447}
+Record {date = [1518-6-17 0:16], guardAction = FallsAsleep}
+Record {date = [1518-6-17 0:50], guardAction = WakesUp}
+Record {date = [1518-6-17 23:58], guardAction = BeginsShift 2707}
+Record {date = [1518-6-18 0:31], guardAction = FallsAsleep}
+Record {date = [1518-6-18 0:32], guardAction = WakesUp}
+Record {date = [1518-6-18 0:54], guardAction = FallsAsleep}
+Record {date = [1518-6-18 0:59], guardAction = WakesUp}
+Record {date = [1518-6-18 23:59], guardAction = BeginsShift 3371}
+Record {date = [1518-6-19 0:19], guardAction = FallsAsleep}
+Record {date = [1518-6-19 0:24], guardAction = WakesUp}
+Record {date = [1518-6-19 0:47], guardAction = FallsAsleep}
+Record {date = [1518-6-19 0:58], guardAction = WakesUp}
+Record {date = [1518-6-20 0:0], guardAction = BeginsShift 419}
+Record {date = [1518-6-20 0:9], guardAction = FallsAsleep}
+Record {date = [1518-6-20 0:26], guardAction = WakesUp}
+Record {date = [1518-6-21 0:1], guardAction = BeginsShift 1033}
+Record {date = [1518-6-21 0:30], guardAction = FallsAsleep}
+Record {date = [1518-6-21 0:58], guardAction = WakesUp}
+Record {date = [1518-6-22 0:3], guardAction = BeginsShift 1901}
+Record {date = [1518-6-22 0:25], guardAction = FallsAsleep}
+Record {date = [1518-6-22 0:59], guardAction = WakesUp}
+Record {date = [1518-6-22 23:54], guardAction = BeginsShift 1021}
+Record {date = [1518-6-23 0:0], guardAction = FallsAsleep}
+Record {date = [1518-6-23 0:44], guardAction = WakesUp}
+Record {date = [1518-6-24 0:1], guardAction = BeginsShift 283}
+Record {date = [1518-6-25 0:4], guardAction = BeginsShift 3119}
+Record {date = [1518-6-25 0:24], guardAction = FallsAsleep}
+Record {date = [1518-6-25 0:51], guardAction = WakesUp}
+Record {date = [1518-6-26 0:3], guardAction = BeginsShift 3371}
+Record {date = [1518-6-26 0:32], guardAction = FallsAsleep}
+Record {date = [1518-6-26 0:34], guardAction = WakesUp}
+Record {date = [1518-6-26 0:49], guardAction = FallsAsleep}
+Record {date = [1518-6-26 0:58], guardAction = WakesUp}
+Record {date = [1518-6-27 0:4], guardAction = BeginsShift 1021}
+Record {date = [1518-6-27 0:29], guardAction = FallsAsleep}
+Record {date = [1518-6-27 0:33], guardAction = WakesUp}
+Record {date = [1518-6-27 23:57], guardAction = BeginsShift 1033}
+Record {date = [1518-6-28 0:48], guardAction = FallsAsleep}
+Record {date = [1518-6-28 0:50], guardAction = WakesUp}
+Record {date = [1518-6-29 0:0], guardAction = BeginsShift 1021}
+Record {date = [1518-6-29 0:9], guardAction = FallsAsleep}
+Record {date = [1518-6-29 0:21], guardAction = WakesUp}
+Record {date = [1518-6-29 0:27], guardAction = FallsAsleep}
+Record {date = [1518-6-29 0:47], guardAction = WakesUp}
+Record {date = [1518-6-29 23:50], guardAction = BeginsShift 2129}
+Record {date = [1518-6-30 0:3], guardAction = FallsAsleep}
+Record {date = [1518-6-30 0:14], guardAction = WakesUp}
+Record {date = [1518-6-30 0:35], guardAction = FallsAsleep}
+Record {date = [1518-6-30 0:46], guardAction = WakesUp}
+Record {date = [1518-6-30 0:50], guardAction = FallsAsleep}
+Record {date = [1518-6-30 0:59], guardAction = WakesUp}
+Record {date = [1518-7-1 0:0], guardAction = BeginsShift 2539}
+Record {date = [1518-7-1 0:10], guardAction = FallsAsleep}
+Record {date = [1518-7-1 0:45], guardAction = WakesUp}
+Record {date = [1518-7-2 0:4], guardAction = BeginsShift 1171}
+Record {date = [1518-7-2 0:14], guardAction = FallsAsleep}
+Record {date = [1518-7-2 0:32], guardAction = WakesUp}
+Record {date = [1518-7-2 0:46], guardAction = FallsAsleep}
+Record {date = [1518-7-2 0:53], guardAction = WakesUp}
+Record {date = [1518-7-2 23:48], guardAction = BeginsShift 1033}
+Record {date = [1518-7-3 0:2], guardAction = FallsAsleep}
+Record {date = [1518-7-3 0:50], guardAction = WakesUp}
+Record {date = [1518-7-4 0:3], guardAction = BeginsShift 3533}
+Record {date = [1518-7-5 0:2], guardAction = BeginsShift 1553}
+Record {date = [1518-7-5 0:37], guardAction = FallsAsleep}
+Record {date = [1518-7-5 0:38], guardAction = WakesUp}
+Record {date = [1518-7-5 0:41], guardAction = FallsAsleep}
+Record {date = [1518-7-5 0:50], guardAction = WakesUp}
+Record {date = [1518-7-6 0:4], guardAction = BeginsShift 1553}
+Record {date = [1518-7-6 0:39], guardAction = FallsAsleep}
+Record {date = [1518-7-6 0:48], guardAction = WakesUp}
+Record {date = [1518-7-7 0:0], guardAction = BeginsShift 1993}
+Record {date = [1518-7-7 0:21], guardAction = FallsAsleep}
+Record {date = [1518-7-7 0:31], guardAction = WakesUp}
+Record {date = [1518-7-7 23:56], guardAction = BeginsShift 419}
+Record {date = [1518-7-8 0:11], guardAction = FallsAsleep}
+Record {date = [1518-7-8 0:32], guardAction = WakesUp}
+Record {date = [1518-7-8 0:37], guardAction = FallsAsleep}
+Record {date = [1518-7-8 0:41], guardAction = WakesUp}
+Record {date = [1518-7-8 0:47], guardAction = FallsAsleep}
+Record {date = [1518-7-8 0:57], guardAction = WakesUp}
+Record {date = [1518-7-8 23:51], guardAction = BeginsShift 1171}
+Record {date = [1518-7-9 0:3], guardAction = FallsAsleep}
+Record {date = [1518-7-9 0:57], guardAction = WakesUp}
+Record {date = [1518-7-10 0:2], guardAction = BeginsShift 1171}
+Record {date = [1518-7-10 0:18], guardAction = FallsAsleep}
+Record {date = [1518-7-10 0:20], guardAction = WakesUp}
+Record {date = [1518-7-10 0:41], guardAction = FallsAsleep}
+Record {date = [1518-7-10 0:58], guardAction = WakesUp}
+Record {date = [1518-7-10 23:51], guardAction = BeginsShift 1171}
+Record {date = [1518-7-11 0:3], guardAction = FallsAsleep}
+Record {date = [1518-7-11 0:12], guardAction = WakesUp}
+Record {date = [1518-7-11 0:34], guardAction = FallsAsleep}
+Record {date = [1518-7-11 0:57], guardAction = WakesUp}
+Record {date = [1518-7-12 0:1], guardAction = BeginsShift 2963}
+Record {date = [1518-7-12 0:10], guardAction = FallsAsleep}
+Record {date = [1518-7-12 0:37], guardAction = WakesUp}
+Record {date = [1518-7-13 0:3], guardAction = BeginsShift 2539}
+Record {date = [1518-7-13 0:44], guardAction = FallsAsleep}
+Record {date = [1518-7-13 0:45], guardAction = WakesUp}
+Record {date = [1518-7-14 0:4], guardAction = BeginsShift 2447}
+Record {date = [1518-7-14 0:28], guardAction = FallsAsleep}
+Record {date = [1518-7-14 0:47], guardAction = WakesUp}
+Record {date = [1518-7-14 23:58], guardAction = BeginsShift 2383}
+Record {date = [1518-7-15 0:13], guardAction = FallsAsleep}
+Record {date = [1518-7-15 0:31], guardAction = WakesUp}
+Record {date = [1518-7-16 0:1], guardAction = BeginsShift 1021}
+Record {date = [1518-7-16 0:18], guardAction = FallsAsleep}
+Record {date = [1518-7-16 0:22], guardAction = WakesUp}
+Record {date = [1518-7-16 0:26], guardAction = FallsAsleep}
+Record {date = [1518-7-16 0:31], guardAction = WakesUp}
+Record {date = [1518-7-16 0:41], guardAction = FallsAsleep}
+Record {date = [1518-7-16 0:49], guardAction = WakesUp}
+Record {date = [1518-7-17 0:2], guardAction = BeginsShift 2729}
+Record {date = [1518-7-17 0:56], guardAction = FallsAsleep}
+Record {date = [1518-7-17 0:58], guardAction = WakesUp}
+Record {date = [1518-7-17 23:50], guardAction = BeginsShift 2383}
+Record {date = [1518-7-18 0:0], guardAction = FallsAsleep}
+Record {date = [1518-7-18 0:41], guardAction = WakesUp}
+Record {date = [1518-7-19 0:3], guardAction = BeginsShift 3119}
+Record {date = [1518-7-19 0:20], guardAction = FallsAsleep}
+Record {date = [1518-7-19 0:40], guardAction = WakesUp}
+Record {date = [1518-7-19 23:50], guardAction = BeginsShift 1993}
+Record {date = [1518-7-20 0:0], guardAction = FallsAsleep}
+Record {date = [1518-7-20 0:6], guardAction = WakesUp}
+Record {date = [1518-7-20 0:44], guardAction = FallsAsleep}
+Record {date = [1518-7-20 0:56], guardAction = WakesUp}
+Record {date = [1518-7-20 23:56], guardAction = BeginsShift 1021}
+Record {date = [1518-7-21 0:9], guardAction = FallsAsleep}
+Record {date = [1518-7-21 0:49], guardAction = WakesUp}
+Record {date = [1518-7-21 23:59], guardAction = BeginsShift 2129}
+Record {date = [1518-7-22 0:44], guardAction = FallsAsleep}
+Record {date = [1518-7-22 0:53], guardAction = WakesUp}
+Record {date = [1518-7-22 23:58], guardAction = BeginsShift 1033}
+Record {date = [1518-7-23 0:19], guardAction = FallsAsleep}
+Record {date = [1518-7-23 0:41], guardAction = WakesUp}
+Record {date = [1518-7-24 0:1], guardAction = BeginsShift 2729}
+Record {date = [1518-7-24 0:22], guardAction = FallsAsleep}
+Record {date = [1518-7-24 0:46], guardAction = WakesUp}
+Record {date = [1518-7-24 23:57], guardAction = BeginsShift 1553}
+Record {date = [1518-7-25 0:14], guardAction = FallsAsleep}
+Record {date = [1518-7-25 0:37], guardAction = WakesUp}
+Record {date = [1518-7-25 0:51], guardAction = FallsAsleep}
+Record {date = [1518-7-25 0:54], guardAction = WakesUp}
+Record {date = [1518-7-26 0:0], guardAction = BeginsShift 1171}
+Record {date = [1518-7-26 0:13], guardAction = FallsAsleep}
+Record {date = [1518-7-26 0:52], guardAction = WakesUp}
+Record {date = [1518-7-27 0:0], guardAction = BeginsShift 1993}
+Record {date = [1518-7-27 0:12], guardAction = FallsAsleep}
+Record {date = [1518-7-27 0:39], guardAction = WakesUp}
+Record {date = [1518-7-27 0:45], guardAction = FallsAsleep}
+Record {date = [1518-7-27 0:47], guardAction = WakesUp}
+Record {date = [1518-7-27 23:57], guardAction = BeginsShift 1231}
+Record {date = [1518-7-28 0:22], guardAction = FallsAsleep}
+Record {date = [1518-7-28 0:48], guardAction = WakesUp}
+Record {date = [1518-7-29 0:2], guardAction = BeginsShift 1231}
+Record {date = [1518-7-29 0:28], guardAction = FallsAsleep}
+Record {date = [1518-7-29 0:52], guardAction = WakesUp}
+Record {date = [1518-7-29 0:57], guardAction = FallsAsleep}
+Record {date = [1518-7-29 0:58], guardAction = WakesUp}
+Record {date = [1518-7-29 23:57], guardAction = BeginsShift 1553}
+Record {date = [1518-7-30 0:53], guardAction = FallsAsleep}
+Record {date = [1518-7-30 0:59], guardAction = WakesUp}
+Record {date = [1518-7-30 23:59], guardAction = BeginsShift 1021}
+Record {date = [1518-7-31 0:23], guardAction = FallsAsleep}
+Record {date = [1518-7-31 0:25], guardAction = WakesUp}
+Record {date = [1518-7-31 0:29], guardAction = FallsAsleep}
+Record {date = [1518-7-31 0:56], guardAction = WakesUp}
+Record {date = [1518-8-1 0:4], guardAction = BeginsShift 2729}
+Record {date = [1518-8-1 0:17], guardAction = FallsAsleep}
+Record {date = [1518-8-1 0:23], guardAction = WakesUp}
+Record {date = [1518-8-1 0:39], guardAction = FallsAsleep}
+Record {date = [1518-8-1 0:48], guardAction = WakesUp}
+Record {date = [1518-8-2 0:0], guardAction = BeginsShift 2707}
+Record {date = [1518-8-2 0:33], guardAction = FallsAsleep}
+Record {date = [1518-8-2 0:57], guardAction = WakesUp}
+Record {date = [1518-8-3 0:0], guardAction = BeginsShift 2447}
+Record {date = [1518-8-3 0:22], guardAction = FallsAsleep}
+Record {date = [1518-8-3 0:50], guardAction = WakesUp}
+Record {date = [1518-8-3 23:59], guardAction = BeginsShift 1553}
+Record {date = [1518-8-4 0:27], guardAction = FallsAsleep}
+Record {date = [1518-8-4 0:48], guardAction = WakesUp}
+Record {date = [1518-8-5 0:3], guardAction = BeginsShift 3499}
+Record {date = [1518-8-5 0:51], guardAction = FallsAsleep}
+Record {date = [1518-8-5 0:57], guardAction = WakesUp}
+Record {date = [1518-8-6 0:1], guardAction = BeginsShift 3119}
+Record {date = [1518-8-6 0:23], guardAction = FallsAsleep}
+Record {date = [1518-8-6 0:37], guardAction = WakesUp}
+Record {date = [1518-8-7 0:1], guardAction = BeginsShift 1723}
+Record {date = [1518-8-7 23:58], guardAction = BeginsShift 3119}
+Record {date = [1518-8-8 0:31], guardAction = FallsAsleep}
+Record {date = [1518-8-8 0:41], guardAction = WakesUp}
+Record {date = [1518-8-8 23:57], guardAction = BeginsShift 1193}
+Record {date = [1518-8-9 0:12], guardAction = FallsAsleep}
+Record {date = [1518-8-9 0:25], guardAction = WakesUp}
+Record {date = [1518-8-9 0:33], guardAction = FallsAsleep}
+Record {date = [1518-8-9 0:47], guardAction = WakesUp}
+Record {date = [1518-8-10 0:2], guardAction = BeginsShift 2729}
+Record {date = [1518-8-10 0:31], guardAction = FallsAsleep}
+Record {date = [1518-8-10 0:50], guardAction = WakesUp}
+Record {date = [1518-8-11 0:1], guardAction = BeginsShift 1171}
+Record {date = [1518-8-11 0:13], guardAction = FallsAsleep}
+Record {date = [1518-8-11 0:35], guardAction = WakesUp}
+Record {date = [1518-8-11 23:58], guardAction = BeginsShift 1297}
+Record {date = [1518-8-12 0:23], guardAction = FallsAsleep}
+Record {date = [1518-8-12 0:38], guardAction = WakesUp}
+Record {date = [1518-8-13 0:4], guardAction = BeginsShift 1171}
+Record {date = [1518-8-13 0:24], guardAction = FallsAsleep}
+Record {date = [1518-8-13 0:26], guardAction = WakesUp}
+Record {date = [1518-8-13 0:37], guardAction = FallsAsleep}
+Record {date = [1518-8-13 0:49], guardAction = WakesUp}
+Record {date = [1518-8-14 0:0], guardAction = BeginsShift 283}
+Record {date = [1518-8-15 0:0], guardAction = BeginsShift 1553}
+Record {date = [1518-8-15 0:22], guardAction = FallsAsleep}
+Record {date = [1518-8-15 0:28], guardAction = WakesUp}
+Record {date = [1518-8-15 0:39], guardAction = FallsAsleep}
+Record {date = [1518-8-15 0:42], guardAction = WakesUp}
+Record {date = [1518-8-16 0:1], guardAction = BeginsShift 1033}
+Record {date = [1518-8-16 0:25], guardAction = FallsAsleep}
+Record {date = [1518-8-16 0:57], guardAction = WakesUp}
+Record {date = [1518-8-16 23:50], guardAction = BeginsShift 2729}
+Record {date = [1518-8-17 0:3], guardAction = FallsAsleep}
+Record {date = [1518-8-17 0:44], guardAction = WakesUp}
+Record {date = [1518-8-18 0:2], guardAction = BeginsShift 1993}
+Record {date = [1518-8-18 0:34], guardAction = FallsAsleep}
+Record {date = [1518-8-18 0:36], guardAction = WakesUp}
+Record {date = [1518-8-18 0:57], guardAction = FallsAsleep}
+Record {date = [1518-8-18 0:59], guardAction = WakesUp}
+Record {date = [1518-8-19 0:3], guardAction = BeginsShift 2707}
+Record {date = [1518-8-19 0:19], guardAction = FallsAsleep}
+Record {date = [1518-8-19 0:49], guardAction = WakesUp}
+Record {date = [1518-8-19 23:57], guardAction = BeginsShift 1171}
+Record {date = [1518-8-20 0:17], guardAction = FallsAsleep}
+Record {date = [1518-8-20 0:28], guardAction = WakesUp}
+Record {date = [1518-8-20 0:42], guardAction = FallsAsleep}
+Record {date = [1518-8-20 0:43], guardAction = WakesUp}
+Record {date = [1518-8-20 0:48], guardAction = FallsAsleep}
+Record {date = [1518-8-20 0:54], guardAction = WakesUp}
+Record {date = [1518-8-21 0:0], guardAction = BeginsShift 3119}
+Record {date = [1518-8-21 0:14], guardAction = FallsAsleep}
+Record {date = [1518-8-21 0:47], guardAction = WakesUp}
+Record {date = [1518-8-21 23:58], guardAction = BeginsShift 1231}
+Record {date = [1518-8-22 0:12], guardAction = FallsAsleep}
+Record {date = [1518-8-22 0:29], guardAction = WakesUp}
+Record {date = [1518-8-22 23:51], guardAction = BeginsShift 1993}
+Record {date = [1518-8-23 0:0], guardAction = FallsAsleep}
+Record {date = [1518-8-23 0:52], guardAction = WakesUp}
+Record {date = [1518-8-23 23:48], guardAction = BeginsShift 419}
+Record {date = [1518-8-24 0:5], guardAction = FallsAsleep}
+Record {date = [1518-8-24 0:12], guardAction = WakesUp}
+Record {date = [1518-8-24 0:24], guardAction = FallsAsleep}
+Record {date = [1518-8-24 0:44], guardAction = WakesUp}
+Record {date = [1518-8-24 23:57], guardAction = BeginsShift 3119}
+Record {date = [1518-8-25 0:43], guardAction = FallsAsleep}
+Record {date = [1518-8-25 0:54], guardAction = WakesUp}
+Record {date = [1518-8-25 23:57], guardAction = BeginsShift 3499}
+Record {date = [1518-8-26 0:25], guardAction = FallsAsleep}
+Record {date = [1518-8-26 0:27], guardAction = WakesUp}
+Record {date = [1518-8-27 0:0], guardAction = BeginsShift 1297}
+Record {date = [1518-8-27 0:43], guardAction = FallsAsleep}
+Record {date = [1518-8-27 0:44], guardAction = WakesUp}
+Record {date = [1518-8-27 0:51], guardAction = FallsAsleep}
+Record {date = [1518-8-27 0:59], guardAction = WakesUp}
+Record {date = [1518-8-27 23:51], guardAction = BeginsShift 419}
+Record {date = [1518-8-28 0:0], guardAction = FallsAsleep}
+Record {date = [1518-8-28 0:22], guardAction = WakesUp}
+Record {date = [1518-8-29 0:3], guardAction = BeginsShift 2707}
+Record {date = [1518-8-29 0:47], guardAction = FallsAsleep}
+Record {date = [1518-8-29 0:54], guardAction = WakesUp}
+Record {date = [1518-8-30 0:3], guardAction = BeginsShift 1901}
+Record {date = [1518-8-30 0:21], guardAction = FallsAsleep}
+Record {date = [1518-8-30 0:34], guardAction = WakesUp}
+Record {date = [1518-8-30 0:46], guardAction = FallsAsleep}
+Record {date = [1518-8-30 0:59], guardAction = WakesUp}
+Record {date = [1518-8-30 23:54], guardAction = BeginsShift 1553}
+Record {date = [1518-8-31 0:4], guardAction = FallsAsleep}
+Record {date = [1518-8-31 0:20], guardAction = WakesUp}
+Record {date = [1518-9-1 0:4], guardAction = BeginsShift 2707}
+Record {date = [1518-9-1 0:23], guardAction = FallsAsleep}
+Record {date = [1518-9-1 0:27], guardAction = WakesUp}
+Record {date = [1518-9-1 0:46], guardAction = FallsAsleep}
+Record {date = [1518-9-1 0:51], guardAction = WakesUp}
+Record {date = [1518-9-2 0:2], guardAction = BeginsShift 3371}
+Record {date = [1518-9-2 0:13], guardAction = FallsAsleep}
+Record {date = [1518-9-2 0:27], guardAction = WakesUp}
+Record {date = [1518-9-2 0:39], guardAction = FallsAsleep}
+Record {date = [1518-9-2 0:49], guardAction = WakesUp}
+Record {date = [1518-9-3 0:2], guardAction = BeginsShift 1993}
+Record {date = [1518-9-3 0:14], guardAction = FallsAsleep}
+Record {date = [1518-9-3 0:36], guardAction = WakesUp}
+Record {date = [1518-9-3 0:40], guardAction = FallsAsleep}
+Record {date = [1518-9-3 0:43], guardAction = WakesUp}
+Record {date = [1518-9-3 0:46], guardAction = FallsAsleep}
+Record {date = [1518-9-3 0:47], guardAction = WakesUp}
+Record {date = [1518-9-4 0:1], guardAction = BeginsShift 3371}
+Record {date = [1518-9-4 0:8], guardAction = FallsAsleep}
+Record {date = [1518-9-4 0:18], guardAction = WakesUp}
+Record {date = [1518-9-4 0:39], guardAction = FallsAsleep}
+Record {date = [1518-9-4 0:58], guardAction = WakesUp}
+Record {date = [1518-9-5 0:0], guardAction = BeginsShift 2539}
+Record {date = [1518-9-5 0:53], guardAction = FallsAsleep}
+Record {date = [1518-9-5 0:59], guardAction = WakesUp}
+Record {date = [1518-9-6 0:0], guardAction = BeginsShift 1193}
+Record {date = [1518-9-6 0:8], guardAction = FallsAsleep}
+Record {date = [1518-9-6 0:53], guardAction = WakesUp}
+Record {date = [1518-9-7 0:0], guardAction = BeginsShift 2383}
+Record {date = [1518-9-7 0:15], guardAction = FallsAsleep}
+Record {date = [1518-9-7 0:30], guardAction = WakesUp}
+Record {date = [1518-9-7 23:58], guardAction = BeginsShift 1297}
+Record {date = [1518-9-8 0:44], guardAction = FallsAsleep}
+Record {date = [1518-9-8 0:51], guardAction = WakesUp}
+Record {date = [1518-9-8 23:49], guardAction = BeginsShift 2383}
+Record {date = [1518-9-9 0:2], guardAction = FallsAsleep}
+Record {date = [1518-9-9 0:5], guardAction = WakesUp}
+Record {date = [1518-9-9 0:30], guardAction = FallsAsleep}
+Record {date = [1518-9-9 0:37], guardAction = WakesUp}
+Record {date = [1518-9-10 0:0], guardAction = BeginsShift 2129}
+Record {date = [1518-9-10 0:30], guardAction = FallsAsleep}
+Record {date = [1518-9-10 0:59], guardAction = WakesUp}
+Record {date = [1518-9-11 0:2], guardAction = BeginsShift 3119}
+Record {date = [1518-9-11 0:21], guardAction = FallsAsleep}
+Record {date = [1518-9-11 0:42], guardAction = WakesUp}
+Record {date = [1518-9-12 0:1], guardAction = BeginsShift 2539}
+Record {date = [1518-9-12 0:27], guardAction = FallsAsleep}
+Record {date = [1518-9-12 0:58], guardAction = WakesUp}
+Record {date = [1518-9-12 23:51], guardAction = BeginsShift 3119}
+Record {date = [1518-9-13 0:4], guardAction = FallsAsleep}
+Record {date = [1518-9-13 0:22], guardAction = WakesUp}
+Record {date = [1518-9-13 0:53], guardAction = FallsAsleep}
+Record {date = [1518-9-13 0:57], guardAction = WakesUp}
+Record {date = [1518-9-13 23:58], guardAction = BeginsShift 283}
+Record {date = [1518-9-15 0:3], guardAction = BeginsShift 1297}
+Record {date = [1518-9-15 0:26], guardAction = FallsAsleep}
+Record {date = [1518-9-15 0:54], guardAction = WakesUp}
+Record {date = [1518-9-15 23:56], guardAction = BeginsShift 2447}
+Record {date = [1518-9-16 0:17], guardAction = FallsAsleep}
+Record {date = [1518-9-16 0:57], guardAction = WakesUp}
+Record {date = [1518-9-16 23:59], guardAction = BeginsShift 1193}
+Record {date = [1518-9-17 0:36], guardAction = FallsAsleep}
+Record {date = [1518-9-17 0:51], guardAction = WakesUp}
+Record {date = [1518-9-18 0:4], guardAction = BeginsShift 1021}
+Record {date = [1518-9-18 0:12], guardAction = FallsAsleep}
+Record {date = [1518-9-18 0:14], guardAction = WakesUp}
+Record {date = [1518-9-18 0:17], guardAction = FallsAsleep}
+Record {date = [1518-9-18 0:58], guardAction = WakesUp}
+Record {date = [1518-9-19 0:1], guardAction = BeginsShift 1901}
+Record {date = [1518-9-19 0:20], guardAction = FallsAsleep}
+Record {date = [1518-9-19 0:21], guardAction = WakesUp}
+Record {date = [1518-9-19 23:59], guardAction = BeginsShift 1297}
+Record {date = [1518-9-20 0:30], guardAction = FallsAsleep}
+Record {date = [1518-9-20 0:35], guardAction = WakesUp}
+Record {date = [1518-9-20 0:48], guardAction = FallsAsleep}
+Record {date = [1518-9-20 0:50], guardAction = WakesUp}
+Record {date = [1518-9-20 23:57], guardAction = BeginsShift 1901}
+Record {date = [1518-9-21 0:14], guardAction = FallsAsleep}
+Record {date = [1518-9-21 0:16], guardAction = WakesUp}
+Record {date = [1518-9-21 0:26], guardAction = FallsAsleep}
+Record {date = [1518-9-21 0:53], guardAction = WakesUp}
+Record {date = [1518-9-21 23:50], guardAction = BeginsShift 1171}
+Record {date = [1518-9-22 0:4], guardAction = FallsAsleep}
+Record {date = [1518-9-22 0:12], guardAction = WakesUp}
+Record {date = [1518-9-22 0:23], guardAction = FallsAsleep}
+Record {date = [1518-9-22 0:41], guardAction = WakesUp}
+Record {date = [1518-9-23 0:2], guardAction = BeginsShift 3499}
+Record {date = [1518-9-23 0:17], guardAction = FallsAsleep}
+Record {date = [1518-9-23 0:41], guardAction = WakesUp}
+Record {date = [1518-9-23 23:56], guardAction = BeginsShift 1993}
+Record {date = [1518-9-24 0:7], guardAction = FallsAsleep}
+Record {date = [1518-9-24 0:36], guardAction = WakesUp}
+Record {date = [1518-9-24 0:45], guardAction = FallsAsleep}
+Record {date = [1518-9-24 0:49], guardAction = WakesUp}
+Record {date = [1518-9-25 0:0], guardAction = BeginsShift 3533}
+Record {date = [1518-9-26 0:2], guardAction = BeginsShift 1901}
+Record {date = [1518-9-26 0:47], guardAction = FallsAsleep}
+Record {date = [1518-9-26 0:52], guardAction = WakesUp}
+Record {date = [1518-9-26 0:55], guardAction = FallsAsleep}
+Record {date = [1518-9-26 0:58], guardAction = WakesUp}
+Record {date = [1518-9-26 23:58], guardAction = BeginsShift 1033}
+Record {date = [1518-9-27 0:36], guardAction = FallsAsleep}
+Record {date = [1518-9-27 0:50], guardAction = WakesUp}
+Record {date = [1518-9-27 23:58], guardAction = BeginsShift 2447}
+Record {date = [1518-9-28 0:38], guardAction = FallsAsleep}
+Record {date = [1518-9-28 0:48], guardAction = WakesUp}
+Record {date = [1518-9-28 23:58], guardAction = BeginsShift 1901}
+Record {date = [1518-9-29 0:50], guardAction = FallsAsleep}
+Record {date = [1518-9-29 0:55], guardAction = WakesUp}
+Record {date = [1518-9-29 23:58], guardAction = BeginsShift 2707}
+Record {date = [1518-9-30 0:34], guardAction = FallsAsleep}
+Record {date = [1518-9-30 0:55], guardAction = WakesUp}
+Record {date = [1518-9-30 23:56], guardAction = BeginsShift 2129}
+Record {date = [1518-10-1 0:7], guardAction = FallsAsleep}
+Record {date = [1518-10-1 0:34], guardAction = WakesUp}
+Record {date = [1518-10-1 0:45], guardAction = FallsAsleep}
+Record {date = [1518-10-1 0:49], guardAction = WakesUp}
+Record {date = [1518-10-2 0:0], guardAction = BeginsShift 1231}
+Record {date = [1518-10-2 0:18], guardAction = FallsAsleep}
+Record {date = [1518-10-2 0:47], guardAction = WakesUp}
+Record {date = [1518-10-2 23:53], guardAction = BeginsShift 1231}
+Record {date = [1518-10-3 0:1], guardAction = FallsAsleep}
+Record {date = [1518-10-3 0:49], guardAction = WakesUp}
+Record {date = [1518-10-3 23:57], guardAction = BeginsShift 1297}
+Record {date = [1518-10-4 0:19], guardAction = FallsAsleep}
+Record {date = [1518-10-4 0:44], guardAction = WakesUp}
+Record {date = [1518-10-4 0:51], guardAction = FallsAsleep}
+Record {date = [1518-10-4 0:53], guardAction = WakesUp}
+Record {date = [1518-10-4 23:59], guardAction = BeginsShift 3119}
+Record {date = [1518-10-5 0:51], guardAction = FallsAsleep}
+Record {date = [1518-10-5 0:52], guardAction = WakesUp}
+Record {date = [1518-10-6 0:0], guardAction = BeginsShift 1193}
+Record {date = [1518-10-6 0:36], guardAction = FallsAsleep}
+Record {date = [1518-10-6 0:56], guardAction = WakesUp}
+Record {date = [1518-10-7 0:1], guardAction = BeginsShift 283}
+Record {date = [1518-10-7 23:50], guardAction = BeginsShift 3371}
+Record {date = [1518-10-8 0:4], guardAction = FallsAsleep}
+Record {date = [1518-10-8 0:33], guardAction = WakesUp}
+Record {date = [1518-10-8 0:36], guardAction = FallsAsleep}
+Record {date = [1518-10-8 0:54], guardAction = WakesUp}
+Record {date = [1518-10-9 0:4], guardAction = BeginsShift 2129}
+Record {date = [1518-10-9 0:33], guardAction = FallsAsleep}
+Record {date = [1518-10-9 0:43], guardAction = WakesUp}
+Record {date = [1518-10-9 0:51], guardAction = FallsAsleep}
+Record {date = [1518-10-9 0:54], guardAction = WakesUp}
+Record {date = [1518-10-9 0:57], guardAction = FallsAsleep}
+Record {date = [1518-10-9 0:59], guardAction = WakesUp}
+Record {date = [1518-10-9 23:48], guardAction = BeginsShift 1993}
+Record {date = [1518-10-10 0:5], guardAction = FallsAsleep}
+Record {date = [1518-10-10 0:8], guardAction = WakesUp}
+Record {date = [1518-10-10 0:34], guardAction = FallsAsleep}
+Record {date = [1518-10-10 0:41], guardAction = WakesUp}
+Record {date = [1518-10-10 23:56], guardAction = BeginsShift 1901}
+Record {date = [1518-10-11 0:7], guardAction = FallsAsleep}
+Record {date = [1518-10-11 0:44], guardAction = WakesUp}
+Record {date = [1518-10-11 0:50], guardAction = FallsAsleep}
+Record {date = [1518-10-11 0:53], guardAction = WakesUp}
+Record {date = [1518-10-11 23:57], guardAction = BeginsShift 2729}
+Record {date = [1518-10-12 0:35], guardAction = FallsAsleep}
+Record {date = [1518-10-12 0:59], guardAction = WakesUp}
+Record {date = [1518-10-13 0:1], guardAction = BeginsShift 3119}
+Record {date = [1518-10-13 0:10], guardAction = FallsAsleep}
+Record {date = [1518-10-13 0:39], guardAction = WakesUp}
+Record {date = [1518-10-13 0:42], guardAction = FallsAsleep}
+Record {date = [1518-10-13 0:50], guardAction = WakesUp}
+Record {date = [1518-10-14 0:2], guardAction = BeginsShift 1297}
+Record {date = [1518-10-14 0:32], guardAction = FallsAsleep}
+Record {date = [1518-10-14 0:37], guardAction = WakesUp}
+Record {date = [1518-10-14 0:40], guardAction = FallsAsleep}
+Record {date = [1518-10-14 0:53], guardAction = WakesUp}
+Record {date = [1518-10-15 0:0], guardAction = BeginsShift 1901}
+Record {date = [1518-10-15 0:49], guardAction = FallsAsleep}
+Record {date = [1518-10-15 0:54], guardAction = WakesUp}
+Record {date = [1518-10-16 0:0], guardAction = BeginsShift 1021}
+Record {date = [1518-10-16 0:20], guardAction = FallsAsleep}
+Record {date = [1518-10-16 0:40], guardAction = WakesUp}
+Record {date = [1518-10-17 0:2], guardAction = BeginsShift 1171}
+Record {date = [1518-10-17 0:10], guardAction = FallsAsleep}
+Record {date = [1518-10-17 0:45], guardAction = WakesUp}
+Record {date = [1518-10-17 0:53], guardAction = FallsAsleep}
+Record {date = [1518-10-17 0:56], guardAction = WakesUp}
+Record {date = [1518-10-17 23:49], guardAction = BeginsShift 3119}
+Record {date = [1518-10-18 0:2], guardAction = FallsAsleep}
+Record {date = [1518-10-18 0:3], guardAction = WakesUp}
+Record {date = [1518-10-18 0:13], guardAction = FallsAsleep}
+Record {date = [1518-10-18 0:21], guardAction = WakesUp}
+Record {date = [1518-10-18 0:36], guardAction = FallsAsleep}
+Record {date = [1518-10-18 0:50], guardAction = WakesUp}
+Record {date = [1518-10-19 0:3], guardAction = BeginsShift 1231}
+Record {date = [1518-10-19 0:20], guardAction = FallsAsleep}
+Record {date = [1518-10-19 0:54], guardAction = WakesUp}
+Record {date = [1518-10-19 0:57], guardAction = FallsAsleep}
+Record {date = [1518-10-19 0:58], guardAction = WakesUp}
+Record {date = [1518-10-19 23:51], guardAction = BeginsShift 2729}
+Record {date = [1518-10-20 0:0], guardAction = FallsAsleep}
+Record {date = [1518-10-20 0:34], guardAction = WakesUp}
+Record {date = [1518-10-20 0:46], guardAction = FallsAsleep}
+Record {date = [1518-10-20 0:57], guardAction = WakesUp}
+Record {date = [1518-10-20 23:53], guardAction = BeginsShift 1021}
+Record {date = [1518-10-21 0:0], guardAction = FallsAsleep}
+Record {date = [1518-10-21 0:42], guardAction = WakesUp}
+Record {date = [1518-10-21 23:56], guardAction = BeginsShift 1193}
+Record {date = [1518-10-22 0:14], guardAction = FallsAsleep}
+Record {date = [1518-10-22 0:26], guardAction = WakesUp}
+Record {date = [1518-10-22 0:30], guardAction = FallsAsleep}
+Record {date = [1518-10-22 0:48], guardAction = WakesUp}
+Record {date = [1518-10-22 23:57], guardAction = BeginsShift 2447}
+Record {date = [1518-10-23 0:9], guardAction = FallsAsleep}
+Record {date = [1518-10-23 0:31], guardAction = WakesUp}
+Record {date = [1518-10-23 23:58], guardAction = BeginsShift 3119}
+Record {date = [1518-10-24 0:29], guardAction = FallsAsleep}
+Record {date = [1518-10-24 0:55], guardAction = WakesUp}
+Record {date = [1518-10-24 23:59], guardAction = BeginsShift 2383}
+Record {date = [1518-10-25 0:9], guardAction = FallsAsleep}
+Record {date = [1518-10-25 0:24], guardAction = WakesUp}
+Record {date = [1518-10-26 0:3], guardAction = BeginsShift 1901}
+Record {date = [1518-10-26 0:26], guardAction = FallsAsleep}
+Record {date = [1518-10-26 0:48], guardAction = WakesUp}
+Record {date = [1518-10-26 0:51], guardAction = FallsAsleep}
+Record {date = [1518-10-26 0:52], guardAction = WakesUp}
+Record {date = [1518-10-26 0:55], guardAction = FallsAsleep}
+Record {date = [1518-10-26 0:59], guardAction = WakesUp}
+Record {date = [1518-10-26 23:46], guardAction = BeginsShift 3499}
+Record {date = [1518-10-27 0:5], guardAction = FallsAsleep}
+Record {date = [1518-10-27 0:53], guardAction = WakesUp}
+Record {date = [1518-10-27 23:59], guardAction = BeginsShift 1021}
+Record {date = [1518-10-28 0:18], guardAction = FallsAsleep}
+Record {date = [1518-10-28 0:56], guardAction = WakesUp}
+Record {date = [1518-10-29 0:2], guardAction = BeginsShift 2447}
+Record {date = [1518-10-29 0:16], guardAction = FallsAsleep}
+Record {date = [1518-10-29 0:24], guardAction = WakesUp}
+Record {date = [1518-10-29 0:35], guardAction = FallsAsleep}
+Record {date = [1518-10-29 0:59], guardAction = WakesUp}
+Record {date = [1518-10-30 0:4], guardAction = BeginsShift 1993}
+Record {date = [1518-10-30 0:28], guardAction = FallsAsleep}
+Record {date = [1518-10-30 0:46], guardAction = WakesUp}
+Record {date = [1518-10-30 0:49], guardAction = FallsAsleep}
+Record {date = [1518-10-30 0:52], guardAction = WakesUp}
+Record {date = [1518-10-30 23:58], guardAction = BeginsShift 3371}
+Record {date = [1518-10-31 0:14], guardAction = FallsAsleep}
+Record {date = [1518-10-31 0:27], guardAction = WakesUp}
+Record {date = [1518-10-31 0:33], guardAction = FallsAsleep}
+Record {date = [1518-10-31 0:40], guardAction = WakesUp}
+Record {date = [1518-10-31 0:43], guardAction = FallsAsleep}
+Record {date = [1518-10-31 0:58], guardAction = WakesUp}
+Record {date = [1518-11-1 0:0], guardAction = BeginsShift 2129}
+Record {date = [1518-11-1 0:31], guardAction = FallsAsleep}
+Record {date = [1518-11-1 0:56], guardAction = WakesUp}
+Record {date = [1518-11-2 0:2], guardAction = BeginsShift 2729}
+Record {date = [1518-11-2 0:41], guardAction = FallsAsleep}
+Record {date = [1518-11-2 0:56], guardAction = WakesUp}
+Record {date = [1518-11-3 0:4], guardAction = BeginsShift 3371}
+Record {date = [1518-11-3 0:6], guardAction = FallsAsleep}
+Record {date = [1518-11-3 0:26], guardAction = WakesUp}
+Record {date = [1518-11-3 0:30], guardAction = FallsAsleep}
+Record {date = [1518-11-3 0:51], guardAction = WakesUp}
+Record {date = [1518-11-4 0:3], guardAction = BeginsShift 1553}
+Record {date = [1518-11-4 0:17], guardAction = FallsAsleep}
+Record {date = [1518-11-4 0:21], guardAction = WakesUp}
+Record {date = [1518-11-5 0:1], guardAction = BeginsShift 2447}
+Record {date = [1518-11-5 0:41], guardAction = FallsAsleep}
+Record {date = [1518-11-5 0:54], guardAction = WakesUp}
+Record {date = [1518-11-5 23:58], guardAction = BeginsShift 2729}
+Record {date = [1518-11-6 0:25], guardAction = FallsAsleep}
+Record {date = [1518-11-6 0:56], guardAction = WakesUp}
+Record {date = [1518-11-6 23:56], guardAction = BeginsShift 1033}
+Record {date = [1518-11-7 0:14], guardAction = FallsAsleep}
+Record {date = [1518-11-7 0:32], guardAction = WakesUp}
+Record {date = [1518-11-7 0:48], guardAction = FallsAsleep}
+Record {date = [1518-11-7 0:58], guardAction = WakesUp}
+Record {date = [1518-11-8 0:0], guardAction = BeginsShift 1021}
+Record {date = [1518-11-8 0:35], guardAction = FallsAsleep}
+Record {date = [1518-11-8 0:50], guardAction = WakesUp}
+Record {date = [1518-11-8 23:59], guardAction = BeginsShift 1193}
+Record {date = [1518-11-9 0:21], guardAction = FallsAsleep}
+Record {date = [1518-11-9 0:33], guardAction = WakesUp}
+Record {date = [1518-11-9 0:40], guardAction = FallsAsleep}
+Record {date = [1518-11-9 0:48], guardAction = WakesUp}
+Record {date = [1518-11-9 0:53], guardAction = FallsAsleep}
+Record {date = [1518-11-9 0:56], guardAction = WakesUp}
+Record {date = [1518-11-10 0:4], guardAction = BeginsShift 1993}
+Record {date = [1518-11-10 0:22], guardAction = FallsAsleep}
+Record {date = [1518-11-10 0:55], guardAction = WakesUp}
+Record {date = [1518-11-10 23:48], guardAction = BeginsShift 1021}
+Record {date = [1518-11-11 0:2], guardAction = FallsAsleep}
+Record {date = [1518-11-11 0:39], guardAction = WakesUp}
+Record {date = [1518-11-11 0:52], guardAction = FallsAsleep}
+Record {date = [1518-11-11 0:58], guardAction = WakesUp}
+Record {date = [1518-11-12 0:4], guardAction = BeginsShift 1193}
+Record {date = [1518-11-12 0:7], guardAction = FallsAsleep}
+Record {date = [1518-11-12 0:8], guardAction = WakesUp}
+Record {date = [1518-11-12 0:28], guardAction = FallsAsleep}
+Record {date = [1518-11-12 0:57], guardAction = WakesUp}
+Record {date = [1518-11-12 23:58], guardAction = BeginsShift 1193}
+Record {date = [1518-11-13 0:21], guardAction = FallsAsleep}
+Record {date = [1518-11-13 0:38], guardAction = WakesUp}
+Record {date = [1518-11-13 23:53], guardAction = BeginsShift 2963}
+Record {date = [1518-11-14 0:2], guardAction = FallsAsleep}
+Record {date = [1518-11-14 0:9], guardAction = WakesUp}
+Record {date = [1518-11-14 23:57], guardAction = BeginsShift 1033}
+Record {date = [1518-11-15 0:27], guardAction = FallsAsleep}
+Record {date = [1518-11-15 0:30], guardAction = WakesUp}
+Record {date = [1518-11-16 0:3], guardAction = BeginsShift 2129}
+Record {date = [1518-11-16 0:44], guardAction = FallsAsleep}
+Record {date = [1518-11-16 0:49], guardAction = WakesUp}
+Record {date = [1518-11-16 0:55], guardAction = FallsAsleep}
+Record {date = [1518-11-16 0:58], guardAction = WakesUp}
+Record {date = [1518-11-16 23:58], guardAction = BeginsShift 1297}
+Record {date = [1518-11-17 0:8], guardAction = FallsAsleep}
+Record {date = [1518-11-17 0:26], guardAction = WakesUp}
+Record {date = [1518-11-18 0:4], guardAction = BeginsShift 2729}
+Record {date = [1518-11-18 0:19], guardAction = FallsAsleep}
+Record {date = [1518-11-18 0:49], guardAction = WakesUp}
+Record {date = [1518-11-18 0:52], guardAction = FallsAsleep}
+Record {date = [1518-11-18 0:53], guardAction = WakesUp}
+Record {date = [1518-11-18 0:56], guardAction = FallsAsleep}
+Record {date = [1518-11-18 0:57], guardAction = WakesUp}
+Record {date = [1518-11-19 0:1], guardAction = BeginsShift 1231}
+Record {date = [1518-11-19 0:17], guardAction = FallsAsleep}
+Record {date = [1518-11-19 0:50], guardAction = WakesUp}
+Record {date = [1518-11-19 23:59], guardAction = BeginsShift 3371}
+Record {date = [1518-11-20 0:8], guardAction = FallsAsleep}
+Record {date = [1518-11-20 0:55], guardAction = WakesUp}
+Record {date = [1518-11-20 23:56], guardAction = BeginsShift 1901}
+Record {date = [1518-11-21 0:9], guardAction = FallsAsleep}
+Record {date = [1518-11-21 0:58], guardAction = WakesUp}
+Record {date = [1518-11-22 0:0], guardAction = BeginsShift 1231}
+Record {date = [1518-11-22 0:13], guardAction = FallsAsleep}
+Record {date = [1518-11-22 0:25], guardAction = WakesUp}
+Record {date = [1518-11-22 0:39], guardAction = FallsAsleep}
+Record {date = [1518-11-22 0:54], guardAction = WakesUp}
+Record {date = [1518-11-22 23:56], guardAction = BeginsShift 2447}
+Record {date = [1518-11-23 0:11], guardAction = FallsAsleep}
+Record {date = [1518-11-23 0:20], guardAction = WakesUp}
+Record {date = [1518-11-23 0:37], guardAction = FallsAsleep}
+Record {date = [1518-11-23 0:43], guardAction = WakesUp}

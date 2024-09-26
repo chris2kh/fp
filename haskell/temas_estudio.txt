@@ -1,0 +1,8 @@
+applicatives
+natural transformations
+hacer ejercicios con distintos tipos de monads (State, IO, Control, Maybe)
+algebras
+lenses
+continuations
+parser combinators
+

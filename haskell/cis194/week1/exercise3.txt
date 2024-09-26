@@ -1,0 +1,46 @@
+{-# OPTIONS_GHC -fno-warn-warnings-deprecations -fno-warn-unused-binds #-}
+import CodeWorld
+
+main :: IO ()
+main = exercise3
+
+
+-- Exercise 3
+
+wall, ground, storage, box :: Picture
+wall =    colored gray $  solidRectangle 1.0 1.0
+ground =  colored yellow $  solidRectangle 1.0 1.0
+storage = solidCircle 0.3 & ground
+box =     colored brown $  solidRectangle 1.0 1.0
+
+drawTile :: Integer -> Picture
+drawTile option 
+  | option == 1 = wall
+  | option == 2 = ground
+  | option == 3 = storage
+  | option == 4 = box
+  | otherwise = blank
+
+
+pictureHelper :: Double -> Double -> Picture
+pictureHelper x y
+  | x > 10 && y > 10 = blank
+  | x > 10 = pictureHelper (-10) ( y + 1)
+  | otherwise = (translated x y (drawTile (maze (round x) (round y)))) & (pictureHelper (x + 1) y)
+
+
+pictureOfMaze :: Picture
+pictureOfMaze = pictureHelper (-10) (-10)
+
+exercise3 :: IO ()
+exercise3 = drawingOf pictureOfMaze
+         
+maze :: Integer -> Integer -> Integer 
+maze x y
+  | abs x > 4  || abs y > 4  = 0
+  | abs x == 4 || abs y == 4 = 1
+  | x ==  2 && y <= 0        = 1
+  | x ==  3 && y <= 0        = 3
+  | x >= -2 && y == 0        = 4
+  | otherwise                = 2
+ 

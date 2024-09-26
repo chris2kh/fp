@@ -1,0 +1,210 @@
+{-# LANGUAGE OverloadedStrings #-}
+import CodeWorld
+
+wall, ground, storage, box :: Picture
+wall =    colored grey (solidRectangle 1 1)
+ground =  colored yellow     (solidRectangle 1 1)
+storage = (colored blue (solidCircle 0.3)) & ground
+box =     colored brown      (solidRectangle 1 1)
+
+player :: Direction -> Picture
+player dir =
+    colored red (solidRectangle 0.5 0.5) & (translated dx dy (solidRectangle 0.4 0.4)) 
+    where 
+    (dx, dy)
+      | dir == R = (0.4, 0) 
+      | dir == U = (0, 0.4)
+      | dir == L = ((-0.4), 0)
+      | dir == D = (0, (-0.4))
+    
+
+data Tile = Wall | Ground | Storage | Box | Blank deriving Eq
+
+drawTile :: Tile -> Picture
+drawTile Wall    = wall
+drawTile Ground  = ground
+drawTile Storage = storage
+drawTile Box     = box
+drawTile Blank   = blank
+
+pictureOfMaze :: Picture
+pictureOfMaze = draw21times (\r -> draw21times (\c -> drawTileAt r c))
+
+draw21times :: (Integer -> Picture) -> Picture
+draw21times something = go (-10)
+  where
+    go :: Integer -> Picture
+    go 11 = blank
+    go n  = something n & go (n+1)
+
+drawTileAt :: Integer -> Integer -> Picture
+drawTileAt r c = translated (fromIntegral r) (fromIntegral c) (drawTile (mazeSelected(C r c)))
+         
+maze :: Coord -> Tile 
+maze (C x y)
+  | abs x > 4  || abs y > 4  = Blank
+  | abs x == 4 || abs y == 4 = Wall
+  | x ==  2 && y <= 0        = Wall
+  | x ==  3 && y <= 0        = Storage
+  | x >= -2 && y == 0        = Box
+  | otherwise                = Ground
+
+maze2 :: Coord -> Tile 
+maze2 (C x y)
+  | y > 7 || y < (-6) || 
+    x <= (-8) || x >= 8 ||
+    x >= (-7) && x <= (-5) && y == 7 ||
+    x == 7 && y >= 0 = Blank
+  | y == (-6) && x>= (-7) && x <= 7 ||
+    x == (-7) && y <= 5 && y >= (-6) ||
+    x == 7 && y <= (-1) && y >= (-6) ||
+    x == 6 && y <= 7 && y >= (-1) ||
+    x >= (-4) && x <= 6 && y == 7 ||
+    x >= (-7) && x <= (-4) && y == 6 ||
+    x >= (-6) && x <= (-4) && y == 3 || -- boy
+    x == (-4) && y <= 2  && y >= (-2)|| 
+    y == 2 && x >= (-4) && x <= 0 = Wall
+  | x == (-2) && y == 4 || 
+    x == 0 && y == 3 ||
+    x == 1 && y == 2 || 
+    x == (-5) && y == (-3) ||
+    x >= (-2) && x <= 0 && y == -3 = Box
+  | x == (-5) && y == 4 ||
+    x == (-5) && y == 0 ||
+    x == (-2) && y == 0 ||
+    x == 4 && y == (-4) ||
+    x == 1 && y == (-5) ||
+    x == (-5) && y == 3  = Storage
+  | otherwise                = Ground
+
+mazeSelected :: Coord -> Tile
+mazeSelected = maze2
+
+data Direction = 
+    R 
+  | U 
+  | L 
+  | D 
+  deriving Eq
+
+data Coord = C Integer Integer deriving Eq
+
+
+initialPlayerCoord :: Coord
+-- initialPlayerCoord = C (-3) (-3)
+initialPlayerCoord = C (-4) (4)
+
+fixedMazeCoord :: Coord
+fixedMazeCoord = C 0 0
+
+atCoord :: Coord -> Picture -> Picture
+atCoord (C x y) pic = translated (fromIntegral x) (fromIntegral y) pic
+
+
+adjacentCoord :: Direction -> Coord -> Coord
+adjacentCoord dir (C x y)
+  | tile == Ground || tile == Storage = nextCoord
+  | otherwise = (C x y) -- cannot move
+   where 
+     nextCoord
+       | dir == R = (C (x + 1) y)
+       | dir == U = (C x (y + 1))
+       | dir == L = (C (x - 1) y)
+       | dir == D = (C x (y - 1))
+     tile = mazeSelected nextCoord
+
+updateState :: Direction -> (Coord, Picture) -> (Coord, Picture)
+updateState dir (currentCoord, currentPic) =
+  if canMove then (newCoord, newPicture) else (currentCoord, currentPic)
+  where 
+    canMove = newCoord /= currentCoord
+    newCoord = adjacentCoord dir currentCoord
+    newPicture = player dir
+
+handleEvent :: Event -> (Coord, Picture) -> (Coord, Picture)
+handleEvent (KeyPress key) currentState =
+    case key of 
+       "Right" -> updateState R currentState
+       "Up"    -> updateState U currentState
+       "Left"  -> updateState L currentState
+       "Down"  -> updateState D currentState
+       --"Esc"   -> (initialPlayerCoord, player R)
+       _       -> currentState
+handleEvent _ currentState = currentState
+
+
+drawState :: (Coord, Picture) -> Picture
+drawState (updatedCoord, updatedPlayer) = atCoord updatedCoord updatedPlayer & atCoord fixedMazeCoord pictureOfMaze
+
+
+resetableActivityOf :: 
+   world -> 
+  (Event -> world -> world) -> 
+  (world -> Picture) -> 
+  IO () 
+resetableActivityOf initialState handle draw =
+    activityOf initialState handle' draw
+    where handle' (KeyPress key) s
+            | key /= "Esc" = handle (KeyPress key) s
+            | otherwise = initialState
+          handle' _ s = s
+
+startScreen :: Picture
+startScreen = scaled 3 3 (lettering "Sokoban!")
+
+
+
+data State world = 
+  StartScreen
+  | Running world
+
+startScreenActivityOf ::
+   world ->
+   (Event -> world -> world) ->
+   (world -> Picture) ->
+   IO ()
+
+startScreenActivityOf initialGame handle draw =
+  activityOf StartScreen handle' draw'
+  where
+    handle' (KeyPress " ") StartScreen = Running initialGame
+    handle' _ StartScreen = StartScreen
+    handle'  e (Running s) = Running (handle e s)
+    
+    draw' StartScreen = startScreen
+    draw' (Running s) = draw s
+
+data Activity world =
+  Activity
+    world
+    (Event -> world -> world)
+    (world -> Picture)
+    
+resetable (Activity state0 handle draw) =
+  Activity state0 handle' draw
+    where
+      handle' (KeyPress "Esc") _ = Running (initialPlayerCoord, player R)
+      handle' e s = handle e s
+  
+ 
+withStartScreen (Activity state0 handle draw) =
+  Activity StartScreen handle' draw'
+  where 
+    handle' (KeyPress " ") StartScreen = Running state0
+    handle' _ StartScreen = StartScreen
+    handle'  e (Running s) = Running (handle e s)
+    
+    draw' StartScreen = startScreen
+    draw' (Running s) = draw s
+
+runActivity :: Activity s -> IO ()
+runActivity (Activity initialGame handle draw)
+  = activityOf initialGame handle draw
+
+
+initialInteraction = (Activity (initialPlayerCoord, player R) handleEvent drawState)
+
+main :: IO ()
+main = runActivity (resetable (withStartScreen initialInteraction))
+
+

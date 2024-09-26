@@ -1,0 +1,8 @@
+*.swp
+*.o
+*.hi
+*.pdf
+*.png
+*.class
+.metals
+.vscode

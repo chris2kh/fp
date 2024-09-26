@@ -1,0 +1,28 @@
+{-# OPTIONS_GHC -fno-warn-warnings-deprecations -fno-warn-unused-binds #-}
+import CodeWorld
+
+main :: IO ()
+main = exercise2
+
+-- Exercise 2
+
+tree :: Picture -> Integer -> Picture
+tree pic 0 = pic -- draw your pic (e.g a flower) only when you reach the end of each branch
+tree pic n = translated 0 1 (rotated (pi/10) (tree pic (n-1)) & rotated (- pi/10) (tree pic (n-1))) &
+           polygon [(0,0),(0,1)]
+
+
+flower :: Double -> Picture
+flower r = colored green $ solidCircle r
+
+bloom :: Double -> Picture
+bloom t
+ | t < 10 = flower (t / 20)
+ | otherwise = flower 0.5
+
+myAnimation :: Double -> Picture
+myAnimation t = tree (bloom t) 8
+   
+
+exercise2 :: IO ()
+exercise2 = animationOf myAnimation

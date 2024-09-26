@@ -1,0 +1,46 @@
+{-# OPTIONS_GHC -fno-warn-warnings-deprecations -fno-warn-unused-binds #-}
+import CodeWorld
+
+main :: IO ()
+main = exercise1
+
+-- Fill in the blanks! (When I say blanks, I mean undefineds)
+
+-- Exercise 1
+
+data TrafficLightStatus =
+    Green
+  | Yellow
+  | Red
+  | RedAndYellow
+
+botCircle, topCircle :: Color -> Picture
+botCircle c = colored c (translated 0 (-3) (solidCircle 1))
+midCircle c = colored c (translated 0 0 (solidCircle 1))
+topCircle c = colored c (translated 0   3  (solidCircle 1))
+
+frame :: Picture
+frame = rectangle 2.5 10
+
+trafficLight :: TrafficLightStatus -> Picture
+
+trafficLight Green  = topCircle black & midCircle black & botCircle green & frame
+trafficLight Yellow = topCircle black & midCircle yellow & botCircle black & frame
+trafficLight Red =    topCircle red & midCircle black & botCircle black   & frame
+trafficLight RedAndYellow = topCircle red & midCircle yellow & botCircle black & frame
+
+computeLightFromTime :: Double -> Integer
+computeLightFromTime t = round (t) `mod` 30
+
+trafficController :: Double -> Picture
+trafficController t
+  | computeLightFromTime t < 17 = trafficLight Green
+  | computeLightFromTime t < 20 = trafficLight Yellow
+  | computeLightFromTime t < 28 = trafficLight Red
+  | otherwise = trafficLight RedAndYellow
+
+trafficLightAnimation :: Double -> Picture
+trafficLightAnimation = trafficController
+
+exercise1 :: IO ()
+exercise1 = animationOf trafficLightAnimation
